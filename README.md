@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Junpyo%20&fontSize=90)
 ### Junpyo's Github💻
 
 # Tier

@@ -1,7 +1,7 @@
 ### Junpyo's Github💻
 
-# Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junpyooh)](https://solved.ac/junpyooh/)
+<!-- # Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junpyooh)](https://solved.ac/junpyooh/) -->
 
 
 # My Tech Stack

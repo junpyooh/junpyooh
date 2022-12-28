@@ -18,3 +18,7 @@
 
 
 ![Junpyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=junpyooh&show_icons=true&theme=highcontrast)
+
+# Contact Me
+
+<a href="mailto:ksholic0426@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ksholic0426@gmail.com"/></a>

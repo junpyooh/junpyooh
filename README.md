@@ -16,9 +16,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
-
-![Junpyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=junpyooh&show_icons=true&theme=highcontrast)
-
 <br><br>
 
 ## Contact Me
